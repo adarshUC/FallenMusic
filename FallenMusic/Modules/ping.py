@@ -60,8 +60,8 @@ async def ping_fallen(_, message: Message):
                     InlineKeyboardButton("❄ sᴜᴘᴘᴏʀᴛ ❄", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
                         "✨ sᴜᴘᴘᴏʀᴛ ✨",
-                        text="sᴜᴩᴩᴏʀᴛ", callback_data="scenario_support",
-                    ),
+                        url="t.me/scenario_support",
+_                    ),
                 ],
             ]
         ),
