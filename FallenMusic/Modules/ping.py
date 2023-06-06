@@ -61,7 +61,7 @@ async def ping_fallen(_, message: Message):
                     InlineKeyboardButton(
                         "✨ sᴜᴘᴘᴏʀᴛ ✨",
                         url="t.me/scenario_support",
-_                    ),
+                    ),
                 ],
             ]
         ),
